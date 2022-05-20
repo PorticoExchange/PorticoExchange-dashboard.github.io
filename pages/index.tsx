@@ -298,8 +298,11 @@ const Home: NextPage = () => {
                             onChange={e => {
                                 setPairId(e.target.value);
                             }}>
-                              <option>BTC/STX</option>
-                              <option>STX/BTC</option>
+                              <option>BTC/BTC⚡️</option>
+                              <option>LBTC/BTC</option>
+                              <option>RBTC/BTC</option>
+                              <option>LBTC/BTC⚡️</option>
+                              <option>RBTC/BTC⚡️</opton>
                               {/* <option>Option 3</option> */}
                             </select>
                             <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
