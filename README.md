@@ -1,6 +1,6 @@
 # Portico Exchange Admin Dashboard
 
-* This frontend app displays data from an [e](https://github.com/PorticoExchange/PorticoExchangeV2) or [lnstxbridge-client](https://github.com/pseudozach/PorticoExchange-client) instance.
+* This frontend app displays data from an [PorticoExchangeFrontendV2](https://github.com/PorticoExchange/PorticoExchangeFrontendV2) or [PorticoExchange-client](https://github.com/PorticoExchange/PorticoExchange-client) instance.
 
 ## Deploy on Vercel
 
