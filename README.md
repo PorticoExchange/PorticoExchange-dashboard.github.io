@@ -1,7 +1,6 @@
-# LN - STX Bridge Admin Dashboard
+# Portico Exchange Admin Dashboard
 
-* This frontend app displays data from an [lnstxbridge](https://github.com/pseudozach/lnstxbridge) or [lnstxbridge-client](https://github.com/pseudozach/lnstxbridge-client) instance.
-* Allows manual rebalancing of bridge funds via [OKCoin API](https://www.okcoin.com/docs/en/#README).
+* This frontend app displays data from an [e](https://github.com/PorticoExchange/PorticoExchangeV2) or [lnstxbridge-client](https://github.com/pseudozach/PorticoExchange-client) instance.
 
 ## Deploy on Vercel
 
